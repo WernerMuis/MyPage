@@ -2,7 +2,7 @@
 index
 
 ## About:
-This project is a webpage introducing myself as well as provide information about me.
+This project is a webpage introducing myself as well as providing information about myself.
 
 ## Content:
 Bio
@@ -15,7 +15,8 @@ Personal Skills
 Personal Work
 
 ## How to:
-Simply just **double click** on **index** and it will open in your browser.
+Open a terminal on mySite and enter "python manage.py runserver".
+Then right click on **index** and select open in browser.
 
 ## Created by:
-Werner
+Werner Miller
